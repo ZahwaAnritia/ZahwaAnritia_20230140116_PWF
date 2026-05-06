@@ -5,7 +5,7 @@
 ![crud](ss-prak9/2.png)
 
 
-## CAtegory
+## Category
 ### Category index
 ![crud](ss-prak9/categoriindex.png)
 ### Category store
